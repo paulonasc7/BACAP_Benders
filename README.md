@@ -1,8 +1,9 @@
-**Test Instances and Computational Results**
+# Test Instances and Computational Results
 
-This repository contains a single file, Instances_Results.pdf, which provides the complete experimental material supporting the paper: Benders decomposition for the integrated berth allocation and quay crane assignment problem under uncertainty (submitted to IJCIEOM 2026). All instances and results reported in the original manuscript are documented in detail in this file to ensure transparency and reproducibility.
+This repository contains a single file, Instances_Results.pdf, which provides the complete experimental material supporting the paper: "*From Baseline to Recovery: Benders for Berth Allocation and Quay Crane Assignment under uncertainty*" (submitted to IJCIEOM 2026). All instances and results reported in the original manuscript are documented in detail in this file to ensure transparency and reproducibility.
 
-*Contents*
+## Contents
+
 The PDF includes:
 - A detailed description of the instance generator
 - Full specifications of all test instances
